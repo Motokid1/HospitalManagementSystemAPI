@@ -13,11 +13,11 @@ http://localhost:2024
 ### Admin Controller
 | Method | Endpoint | Description |
 |--------|-------------------------------|------------------------------|
-| PUT | `/api/hithro/admin/update/{id}` | Update an admin by ID |
-| POST | `/api/hithro/admin/register` | Register a new admin |
-| GET | `/api/hithro/admin/getAll` | Retrieve all admins |
-| GET | `/api/hithro/admin/get/{id}` | Get admin details by ID |
-| DELETE | `/api/hithro/admin/delete/{id}` | Delete an admin by ID |
+| PUT | `/api/hithro/admin/update/{id}` | Update an user by ID |
+| POST | `/api/hithro/admin/register` | Register a new user |
+| GET | `/api/hithro/admin/getAll` | Retrieve all users |
+| GET | `/api/hithro/admin/get/{id}` | Get user details by ID |
+| DELETE | `/api/hithro/admin/delete/{id}` | Delete an user by ID |
 
 ### Receptionist Controller
 | Method | Endpoint | Description |
