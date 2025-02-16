@@ -1,0 +1,6 @@
+
+Admin -> Add,Update,Delete,View new employees - Director, Doctors, Receptionist, Patient [Done]    
+Director -> ViewAll & byID and Delete patients information [View Done ]
+Doctor -> ViewAll & byID patients and Doctors [Done]
+Receptionist -> Add patients details to DB [Done] | generate disposable tokens for current day
+Patient -> View his personal information [Done]
